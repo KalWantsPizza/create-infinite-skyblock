@@ -1,2 +1,2 @@
-# create-infinite-skyblock
-Placeholder Repo for Create Infinite Skyblock issues
+# Create Infinite Skyblock!
+Placeholder Repo for Create Infinite Skyblock issues.
