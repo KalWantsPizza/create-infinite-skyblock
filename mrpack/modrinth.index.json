@@ -1083,6 +1083,16 @@
         "sha512": "18e657428f6ba99032e3ef9a90b098a170ef2ad4e030dad2adcc56e4ce80a31a02e206a4bb5de339df4d1b8095fe8f9a42a33082749824ecc2e10871332d7dec"
       },
       "path": "mods/trade-cycling-forge-1.20.1-1.0.13.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YVMr2l79/versions/hOx0XQsq/skyblock-infinite-1-0-3.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "path": "global_packs/required_data/skyblock-infinite-1-0-3.zip"
     }
   ],
   "formatVersion": 1,
