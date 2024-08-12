@@ -1085,14 +1085,34 @@
       "path": "mods/trade-cycling-forge-1.20.1-1.0.13.jar"
     },
     {
+      "path": "global_packs/required_data/skyblock-infinite-1-0-3.zip",
+      "hashes": {
+        "sha1": "94822b2210ef1d4830125a0c74386fc8ccbfb43f",
+        "sha512": "37c44aa3d184db96aeb1e7113c78efa91697730c0a7c70efe8b8c021169bb2020bcbdee849098b48929588858fdffe942666b8f8a3607b3e059b0605a970f540"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
       "downloads": [
         "https://cdn.modrinth.com/data/YVMr2l79/versions/hOx0XQsq/skyblock-infinite-1-0-3.zip"
       ],
+      "fileSize": 806019
+    },
+    {
+      "path": "global_packs/required_data/Create Skyblock Tweaks.zip",
+      "hashes": {
+        "sha1": "f326be1959a8cd767bde272a029150e03ced8f86",
+        "sha512": "2e173513849803bd23166fb3d4eb38ed73ddfe07e7fa44d9dca4c363c8404da2169638ed661a439c46e9e6a18bcb45033cbe4de54c140aabcdcb31488a17a6c5"
+      },
       "env": {
         "client": "required",
         "server": "required"
       },
-      "path": "global_packs/required_data/skyblock-infinite-1-0-3.zip"
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZBtWJYYe/versions/jeVZE5lU/Create%20Skyblock%20Tweaks.zip"
+      ],
+      "fileSize": 15659
     }
   ],
   "formatVersion": 1,
