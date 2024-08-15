@@ -1100,24 +1100,24 @@
       "fileSize": 806019
     },
     {
-      "path": "global_packs/required_data/Create Skyblock Tweaks.zip",
+      "path": "global_packs/required_data/create-skyblock-tweaks-(neo)forge-v1.1.0.zip",
       "hashes": {
-        "sha1": "f326be1959a8cd767bde272a029150e03ced8f86",
-        "sha512": "2e173513849803bd23166fb3d4eb38ed73ddfe07e7fa44d9dca4c363c8404da2169638ed661a439c46e9e6a18bcb45033cbe4de54c140aabcdcb31488a17a6c5"
+        "sha512": "49b9e89236d64e3bf4ac40c8d50d06daa291f8b640e58e7c428459087add1a726b3d68960973f8bda62b24004083b977b68f16ec9a1f7b78e2cf4b8a4c9277f9",
+        "sha1": "6f780063711e36d558c9af1e9ab9dd2eb05fd3b9"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ZBtWJYYe/versions/jeVZE5lU/Create%20Skyblock%20Tweaks.zip"
+        "https://cdn.modrinth.com/data/ZBtWJYYe/versions/CzJNXOsC/create-skyblock-tweaks-%28neo%29forge-v1.1.0.zip"
       ],
-      "fileSize": 15659
+      "fileSize": 31722
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Create Infinite Skyblock",
   "summary": "A Create Mod-focused modpack based around DrTrog's Skyblock Infinite map! Choose your seed and island type, and explore naturally generating structures across the void. Use Create Addons to choose your own adventure: Will you use Crafts & Additions to generate FE and power your machines with wires? Will you use renewable Biodiesel to power Huge Diesel Engines for your factories? Will your Skyblock Empire be built with Steam and Rails?\n\nRule the skies with Create!\n\nKey Mods:\nCreate\nCreate: Steam & Rails\nCreate: Deco\nCreate: Crafts & Additions\nCreate: Diesel Generators\nStorage Drawers",
-  "versionId": "0.0.2"
+  "versionId": "0.0.3"
 }
