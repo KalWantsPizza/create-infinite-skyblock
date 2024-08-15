@@ -11,5 +11,5 @@ _Rule the skies with Create!_
 * Create: Crafts & Additions
 * Create: Diesel Generators
 * Create: Enchantment Industry
-* Storage Drawers
-** includes create-based recipes for key blocks
+* Create: Confectionery
+* Storage Drawers (includes create-based recipes for key blocks)
