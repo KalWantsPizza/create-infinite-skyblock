@@ -11,5 +11,7 @@ _Rule the skies with Create!_
 * Create: Crafts & Additions
 * Create: Diesel Generators
 * Create: Enchantment Industry
-* Create: Confectionery
 * Storage Drawers (includes create-based recipes for key blocks)
+
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/create-infinite-skyblock)
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/KalWantsPizza/create-infinite-skyblock)
